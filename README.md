@@ -23,9 +23,10 @@ A few resources to get you started if this is your first Flutter project:
   <tr>
     <th>Intro Page</th>
     <th>Shop Page</th>
-    <th>Drawer</th>
+    <th>Shop Page</th>
      <th>Adding to Cart</th>
    <th>Cart page</th>
+    <th>Drawer</th>
   </tr>
   <tr>
     <td><img src="lib/screenshots/Screenshot_20241023_225345.jpg" width="250"></td>
