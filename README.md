@@ -27,10 +27,10 @@ A few resources to get you started if this is your first Flutter project:
   <tr>
     <td><img src="lib/screenshots/Screenshot_20241023_225345.jpg" width="250"></td>
     <td><img src="lib/screenshots/Screenshot_20241023_225356.jpg" width="250"></td>
-    <td><img src="lib/screenshots/Screenshot_20241023_225408.jpg" width="250"></td>
+    <td><img src="lib/screenshots/Screenshot_20241023_225403.jpg" width="250"></td>
     <td><img src="lib/screenshots/Screenshot_20241023_225417.jpg" width="250"></td>
     <td><img src="lib/screenshots/Screenshot_20241023_225542.jpg" width="250"></td>
-    <td><img src="lib/screenshots/Screenshot_20241023_225403.jpg" width="250"></td>
+    <td><img src="lib/screenshots/Screenshot_20241023_225408.jpg" width="250"></td>
   </tr>
 </table>
 
