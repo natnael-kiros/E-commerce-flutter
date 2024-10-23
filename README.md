@@ -21,8 +21,11 @@ Below are some screenshots of the app:
 A few resources to get you started if this is your first Flutter project:
 <table>
   <tr>
-    <th>Home Screen</th>
-    <th>Cart Screen</th>
+    <th>Intro Page</th>
+    <th>Shop Page</th>
+    <th>Drawer</th>
+     <th>Adding to Cart</th>
+   <th>Cart page</th>
   </tr>
   <tr>
     <td><img src="lib/screenshots/Screenshot_20241023_225345.jpg" width="250"></td>
